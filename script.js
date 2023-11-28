@@ -1,0 +1,1 @@
+document.write("<h1>JAVASCRIPT IS HERE BABY</h1");
